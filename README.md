@@ -17,6 +17,7 @@ My Leetcode Problems in Java
 | [0219-contains-duplicate-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0704-binary-search](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/roshankumar447/DSA-Problem/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/roshankumar447/DSA-Problem/tree/master/0819-most-common-word) |
 | [0908-smallest-range-i](https://github.com/roshankumar447/DSA-Problem/tree/master/0908-smallest-range-i) |
@@ -156,6 +157,7 @@ My Leetcode Problems in Java
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankumar447/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
