@@ -159,6 +159,7 @@ My Leetcode Problems in Java
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankumar447/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/roshankumar447/DSA-Problem/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0704-binary-search) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -265,4 +266,8 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/roshankumar447/DSA-Problem/tree/master/0836-rectangle-overlap) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/roshankumar447/DSA-Problem/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
