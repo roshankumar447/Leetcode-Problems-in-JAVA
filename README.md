@@ -11,6 +11,7 @@ My Leetcode Problems in Java
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/roshankumar447/DSA-Problem/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/roshankumar447/DSA-Problem/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankumar447/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/roshankumar447/DSA-Problem/tree/master/0200-number-of-islands) |
@@ -156,6 +157,7 @@ My Leetcode Problems in Java
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankumar447/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0704-binary-search) |
