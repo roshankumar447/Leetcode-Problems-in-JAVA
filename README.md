@@ -49,6 +49,7 @@ My Leetcode Problems in Java
 | [0075-sort-colors](https://github.com/roshankumar447/DSA-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/roshankumar447/DSA-Problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankumar447/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -93,6 +94,7 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/roshankumar447/DSA-Problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/roshankumar447/DSA-Problem/tree/master/0383-ransom-note) |
@@ -207,6 +209,7 @@ My Leetcode Problems in Java
 | [0019-remove-nth-node-from-end-of-list](https://github.com/roshankumar447/DSA-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/roshankumar447/DSA-Problem/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/roshankumar447/DSA-Problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/roshankumar447/DSA-Problem/tree/master/0876-middle-of-the-linked-list) |
 ## Trie
 |  |
@@ -281,4 +284,5 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/roshankumar447/DSA-Problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
