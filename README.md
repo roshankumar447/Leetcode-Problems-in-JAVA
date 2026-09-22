@@ -16,6 +16,7 @@ My Leetcode Problems in Java
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankumar447/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/roshankumar447/DSA-Problem/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/roshankumar447/DSA-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0704-binary-search](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0704-binary-search) |
@@ -51,6 +52,7 @@ My Leetcode Problems in Java
 | [0141-linked-list-cycle](https://github.com/roshankumar447/DSA-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankumar447/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/roshankumar447/DSA-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0876-middle-of-the-linked-list](https://github.com/roshankumar447/DSA-Problem/tree/master/0876-middle-of-the-linked-list) |
@@ -166,6 +168,7 @@ My Leetcode Problems in Java
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankumar447/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/roshankumar447/DSA-Problem/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/roshankumar447/DSA-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0704-binary-search) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -226,6 +229,7 @@ My Leetcode Problems in Java
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/roshankumar447/DSA-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/0389-find-the-difference) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankumar447/DSA-Problem/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/roshankumar447/DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -285,4 +289,9 @@ My Leetcode Problems in Java
 | ------- |
 | [0141-linked-list-cycle](https://github.com/roshankumar447/DSA-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/roshankumar447/DSA-Problem/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/roshankumar447/DSA-Problem/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
