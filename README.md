@@ -50,6 +50,7 @@ My Leetcode Problems in Java
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankumar447/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0876-middle-of-the-linked-list](https://github.com/roshankumar447/DSA-Problem/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/roshankumar447/DSA-Problem/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/roshankumar447/DSA-Problem/tree/master/0925-long-pressed-name) |
 ## Greedy
@@ -201,6 +202,7 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/roshankumar447/DSA-Problem/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/roshankumar447/DSA-Problem/tree/master/0876-middle-of-the-linked-list) |
 ## Trie
 |  |
 | ------- |
