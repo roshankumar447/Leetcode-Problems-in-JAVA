@@ -24,6 +24,7 @@ My Leetcode Problems in Java
 | [0724-find-pivot-index](https://github.com/roshankumar447/DSA-Problem/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/roshankumar447/DSA-Problem/tree/master/0819-most-common-word) |
 | [0908-smallest-range-i](https://github.com/roshankumar447/DSA-Problem/tree/master/0908-smallest-range-i) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/roshankumar447/DSA-Problem/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/roshankumar447/DSA-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/roshankumar447/DSA-Problem/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -104,6 +105,7 @@ My Leetcode Problems in Java
 | [0389-find-the-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/roshankumar447/DSA-Problem/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/roshankumar447/DSA-Problem/tree/master/0819-most-common-word) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankumar447/DSA-Problem/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/roshankumar447/DSA-Problem/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/roshankumar447/DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -297,6 +299,7 @@ My Leetcode Problems in Java
 | ------- |
 | [0164-maximum-gap](https://github.com/roshankumar447/DSA-Problem/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/roshankumar447/DSA-Problem/tree/master/0287-find-the-duplicate-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Bucket Sort
 |  |
 | ------- |
