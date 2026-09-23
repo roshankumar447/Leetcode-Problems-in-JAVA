@@ -20,6 +20,7 @@ My Leetcode Problems in Java
 | [0287-find-the-duplicate-number](https://github.com/roshankumar447/DSA-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0682-baseball-game](https://github.com/roshankumar447/DSA-Problem/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/roshankumar447/DSA-Problem/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/roshankumar447/DSA-Problem/tree/master/0819-most-common-word) |
@@ -189,6 +190,7 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/roshankumar447/DSA-Problem/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/roshankumar447/DSA-Problem/tree/master/0682-baseball-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/roshankumar447/DSA-Problem/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/roshankumar447/DSA-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/roshankumar447/DSA-Problem/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -226,6 +228,7 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/roshankumar447/DSA-Problem/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
