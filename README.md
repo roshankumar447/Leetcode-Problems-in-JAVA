@@ -67,6 +67,7 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/roshankumar447/DSA-Problem/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/roshankumar447/DSA-Problem/tree/master/0649-dota2-senate) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,6 +90,7 @@ My Leetcode Problems in Java
 | [0389-find-the-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/roshankumar447/DSA-Problem/tree/master/0412-fizz-buzz) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0649-dota2-senate](https://github.com/roshankumar447/DSA-Problem/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/roshankumar447/DSA-Problem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/roshankumar447/DSA-Problem/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/roshankumar447/DSA-Problem/tree/master/0819-most-common-word) |
@@ -320,5 +322,6 @@ My Leetcode Problems in Java
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/roshankumar447/DSA-Problem/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/roshankumar447/DSA-Problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
