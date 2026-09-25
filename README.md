@@ -20,6 +20,7 @@ My Leetcode Problems in Java
 | [0219-contains-duplicate-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/roshankumar447/DSA-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roshankumar447/DSA-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0682-baseball-game](https://github.com/roshankumar447/DSA-Problem/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0704-binary-search) |
@@ -180,6 +181,7 @@ My Leetcode Problems in Java
 | [0278-first-bad-version](https://github.com/roshankumar447/DSA-Problem/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/roshankumar447/DSA-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roshankumar447/DSA-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0704-binary-search) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sorting
@@ -189,6 +191,7 @@ My Leetcode Problems in Java
 | [0088-merge-sorted-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/roshankumar447/DSA-Problem/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankumar447/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roshankumar447/DSA-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/0389-find-the-difference) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -284,6 +287,7 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/roshankumar447/DSA-Problem/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roshankumar447/DSA-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -329,5 +333,6 @@ My Leetcode Problems in Java
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roshankumar447/DSA-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/roshankumar447/DSA-Problem/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
