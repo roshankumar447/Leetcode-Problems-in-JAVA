@@ -275,10 +275,12 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/roshankumar447/DSA-Problem/tree/master/0200-number-of-islands) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/roshankumar447/DSA-Problem/tree/master/0200-number-of-islands) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -335,4 +337,12 @@ My Leetcode Problems in Java
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roshankumar447/DSA-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/roshankumar447/DSA-Problem/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
