@@ -65,6 +65,7 @@ My Leetcode Problems in Java
 | [0876-middle-of-the-linked-list](https://github.com/roshankumar447/DSA-Problem/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/roshankumar447/DSA-Problem/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/roshankumar447/DSA-Problem/tree/master/0925-long-pressed-name) |
+| [2396-strictly-palindromic-number](https://github.com/roshankumar447/DSA-Problem/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -134,6 +135,7 @@ My Leetcode Problems in Java
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/roshankumar447/DSA-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankumar447/DSA-Problem/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/roshankumar447/DSA-Problem/tree/master/1512-number-of-good-pairs) |
+| [2396-strictly-palindromic-number](https://github.com/roshankumar447/DSA-Problem/tree/master/2396-strictly-palindromic-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/roshankumar447/DSA-Problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3870-count-commas-in-range](https://github.com/roshankumar447/DSA-Problem/tree/master/3870-count-commas-in-range) |
@@ -266,6 +268,7 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/roshankumar447/DSA-Problem/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/roshankumar447/DSA-Problem/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
