@@ -280,6 +280,7 @@ My Leetcode Problems in Java
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/roshankumar447/DSA-Problem/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -348,11 +349,13 @@ My Leetcode Problems in Java
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
