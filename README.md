@@ -283,12 +283,14 @@ My Leetcode Problems in Java
 | [0110-balanced-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/roshankumar447/DSA-Problem/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/roshankumar447/DSA-Problem/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Union-Find
 |  |
@@ -351,11 +353,13 @@ My Leetcode Problems in Java
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
