@@ -89,6 +89,7 @@ My Leetcode Problems in Java
 | [0020-valid-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/roshankumar447/DSA-Problem/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/roshankumar447/DSA-Problem/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/roshankumar447/DSA-Problem/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/roshankumar447/DSA-Problem/tree/master/0412-fizz-buzz) |
@@ -284,6 +285,7 @@ My Leetcode Problems in Java
 | [0112-path-sum](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/roshankumar447/DSA-Problem/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -356,6 +358,7 @@ My Leetcode Problems in Java
 | [0110-balanced-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -364,6 +367,11 @@ My Leetcode Problems in Java
 | [0110-balanced-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
