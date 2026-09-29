@@ -29,6 +29,7 @@ My Leetcode Problems in Java
 | [0908-smallest-range-i](https://github.com/roshankumar447/DSA-Problem/tree/master/0908-smallest-range-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/roshankumar447/DSA-Problem/tree/master/0989-add-to-array-form-of-integer) |
+| [1046-last-stone-weight](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/roshankumar447/DSA-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/roshankumar447/DSA-Problem/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankumar447/DSA-Problem/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -353,6 +354,7 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roshankumar447/DSA-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1046-last-stone-weight](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/roshankumar447/DSA-Problem/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Tree
 |  |
