@@ -243,6 +243,7 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/roshankumar447/DSA-Problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/roshankumar447/DSA-Problem/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -283,6 +284,7 @@ My Leetcode Problems in Java
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/roshankumar447/DSA-Problem/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0257-binary-tree-paths) |
@@ -357,6 +359,7 @@ My Leetcode Problems in Java
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
@@ -367,6 +370,7 @@ My Leetcode Problems in Java
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
