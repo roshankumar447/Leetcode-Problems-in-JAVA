@@ -291,6 +291,7 @@ My Leetcode Problems in Java
 | [0257-binary-tree-paths](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -367,6 +368,7 @@ My Leetcode Problems in Java
 | [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -378,6 +380,7 @@ My Leetcode Problems in Java
 | [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0938-range-sum-of-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -386,4 +389,5 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
