@@ -33,6 +33,7 @@ My Leetcode Problems in Java
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/roshankumar447/DSA-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/roshankumar447/DSA-Problem/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankumar447/DSA-Problem/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1470-shuffle-the-array](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/roshankumar447/DSA-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/roshankumar447/DSA-Problem/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/roshankumar447/DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
