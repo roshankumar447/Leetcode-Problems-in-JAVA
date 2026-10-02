@@ -299,6 +299,7 @@ My Leetcode Problems in Java
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/roshankumar447/DSA-Problem/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
@@ -311,6 +312,7 @@ My Leetcode Problems in Java
 | [0200-number-of-islands](https://github.com/roshankumar447/DSA-Problem/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/roshankumar447/DSA-Problem/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Union-Find
 |  |
@@ -385,6 +387,7 @@ My Leetcode Problems in Java
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/roshankumar447/DSA-Problem/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0938-range-sum-of-bst) |
@@ -404,6 +407,7 @@ My Leetcode Problems in Java
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/roshankumar447/DSA-Problem/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0938-range-sum-of-bst) |
