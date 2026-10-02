@@ -296,6 +296,7 @@ My Leetcode Problems in Java
 | [0199-binary-tree-right-side-view](https://github.com/roshankumar447/DSA-Problem/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/roshankumar447/DSA-Problem/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -381,6 +382,7 @@ My Leetcode Problems in Java
 | [0145-binary-tree-postorder-traversal](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/roshankumar447/DSA-Problem/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -399,6 +401,7 @@ My Leetcode Problems in Java
 | [0145-binary-tree-postorder-traversal](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/roshankumar447/DSA-Problem/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -413,10 +416,19 @@ My Leetcode Problems in Java
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0938-range-sum-of-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
