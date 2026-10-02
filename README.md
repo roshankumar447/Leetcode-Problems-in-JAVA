@@ -13,6 +13,7 @@ My Leetcode Problems in Java
 | [0075-sort-colors](https://github.com/roshankumar447/DSA-Problem/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/roshankumar447/DSA-Problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/roshankumar447/DSA-Problem/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankumar447/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -371,6 +372,7 @@ My Leetcode Problems in Java
 | ------- |
 | [0100-same-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -387,6 +389,7 @@ My Leetcode Problems in Java
 | ------- |
 | [0100-same-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -405,6 +408,11 @@ My Leetcode Problems in Java
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0938-range-sum-of-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
