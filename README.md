@@ -40,6 +40,7 @@ My Leetcode Problems in Java
 | [1684-count-the-number-of-consistent-strings](https://github.com/roshankumar447/DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/roshankumar447/DSA-Problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/roshankumar447/DSA-Problem/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1920-build-array-from-permutation](https://github.com/roshankumar447/DSA-Problem/tree/master/1920-build-array-from-permutation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/roshankumar447/DSA-Problem/tree/master/1991-find-the-middle-index-in-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -209,6 +210,7 @@ My Leetcode Problems in Java
 | [0682-baseball-game](https://github.com/roshankumar447/DSA-Problem/tree/master/0682-baseball-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/roshankumar447/DSA-Problem/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/roshankumar447/DSA-Problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1920-build-array-from-permutation](https://github.com/roshankumar447/DSA-Problem/tree/master/1920-build-array-from-permutation) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/roshankumar447/DSA-Problem/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/roshankumar447/DSA-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/roshankumar447/DSA-Problem/tree/master/3354-make-array-elements-equal-to-zero) |
