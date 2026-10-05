@@ -32,6 +32,7 @@ My Leetcode Problems in Java
 | [0989-add-to-array-form-of-integer](https://github.com/roshankumar447/DSA-Problem/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/roshankumar447/DSA-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roshankumar447/DSA-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/roshankumar447/DSA-Problem/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankumar447/DSA-Problem/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1470-shuffle-the-array](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/1470-shuffle-the-array) |
@@ -120,6 +121,7 @@ My Leetcode Problems in Java
 | [0771-jewels-and-stones](https://github.com/roshankumar447/DSA-Problem/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/roshankumar447/DSA-Problem/tree/master/0819-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/roshankumar447/DSA-Problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roshankumar447/DSA-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankumar447/DSA-Problem/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/roshankumar447/DSA-Problem/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/roshankumar447/DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -202,6 +204,7 @@ My Leetcode Problems in Java
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roshankumar447/DSA-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/0389-find-the-difference) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roshankumar447/DSA-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
 |  |
@@ -437,4 +440,8 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roshankumar447/DSA-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roshankumar447/DSA-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
