@@ -444,4 +444,8 @@ My Leetcode Problems in Java
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roshankumar447/DSA-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/roshankumar447/DSA-Problem/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
