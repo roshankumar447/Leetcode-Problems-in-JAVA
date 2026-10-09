@@ -105,6 +105,7 @@ My Leetcode Problems in Java
 | [0819-most-common-word](https://github.com/roshankumar447/DSA-Problem/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/roshankumar447/DSA-Problem/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/roshankumar447/DSA-Problem/tree/master/0925-long-pressed-name) |
+| [1021-remove-outermost-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/1021-remove-outermost-parentheses) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/roshankumar447/DSA-Problem/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/roshankumar447/DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -255,12 +256,14 @@ My Leetcode Problems in Java
 | [0145-binary-tree-postorder-traversal](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/roshankumar447/DSA-Problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/roshankumar447/DSA-Problem/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/roshankumar447/DSA-Problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
