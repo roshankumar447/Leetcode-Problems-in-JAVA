@@ -48,6 +48,7 @@ My Leetcode Problems in Java
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/roshankumar447/DSA-Problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/roshankumar447/DSA-Problem/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/roshankumar447/DSA-Problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/roshankumar447/DSA-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/roshankumar447/DSA-Problem/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -238,6 +239,7 @@ My Leetcode Problems in Java
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/roshankumar447/DSA-Problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/roshankumar447/DSA-Problem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
