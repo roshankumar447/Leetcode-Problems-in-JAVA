@@ -80,6 +80,7 @@ My Leetcode Problems in Java
 | ------- |
 | [0011-container-with-most-water](https://github.com/roshankumar447/DSA-Problem/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/roshankumar447/DSA-Problem/tree/master/0649-dota2-senate) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/roshankumar447/DSA-Problem/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,6 +151,7 @@ My Leetcode Problems in Java
 | [2396-strictly-palindromic-number](https://github.com/roshankumar447/DSA-Problem/tree/master/2396-strictly-palindromic-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/roshankumar447/DSA-Problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/roshankumar447/DSA-Problem/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/roshankumar447/DSA-Problem/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/roshankumar447/DSA-Problem/tree/master/3871-count-commas-in-range-ii) |
 ## Number Theory
