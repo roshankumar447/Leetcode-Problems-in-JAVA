@@ -54,6 +54,7 @@ My Leetcode Problems in Java
 | [3432-count-partitions-with-even-sum-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/roshankumar447/DSA-Problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/roshankumar447/DSA-Problem/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/roshankumar447/DSA-Problem/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +136,7 @@ My Leetcode Problems in Java
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/roshankumar447/DSA-Problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/roshankumar447/DSA-Problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/roshankumar447/DSA-Problem/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/roshankumar447/DSA-Problem/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
 | ------- |
@@ -213,6 +215,7 @@ My Leetcode Problems in Java
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/roshankumar447/DSA-Problem/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roshankumar447/DSA-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/roshankumar447/Leetcode-Problems-in-JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/roshankumar447/DSA-Problem/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Simulation
 |  |
 | ------- |
