@@ -150,6 +150,7 @@ My Leetcode Problems in Java
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/roshankumar447/DSA-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankumar447/DSA-Problem/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/roshankumar447/DSA-Problem/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/roshankumar447/DSA-Problem/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/roshankumar447/DSA-Problem/tree/master/2396-strictly-palindromic-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/roshankumar447/DSA-Problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/roshankumar447/DSA-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -222,6 +223,7 @@ My Leetcode Problems in Java
 | [0412-fizz-buzz](https://github.com/roshankumar447/DSA-Problem/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/roshankumar447/DSA-Problem/tree/master/0682-baseball-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/roshankumar447/DSA-Problem/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1688-count-of-matches-in-tournament](https://github.com/roshankumar447/DSA-Problem/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/roshankumar447/DSA-Problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/roshankumar447/DSA-Problem/tree/master/1920-build-array-from-permutation) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/roshankumar447/DSA-Problem/tree/master/2558-take-gifts-from-the-richest-pile) |
