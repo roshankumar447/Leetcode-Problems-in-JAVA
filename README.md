@@ -116,6 +116,7 @@ My Leetcode Problems in Java
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/roshankumar447/DSA-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/roshankumar447/DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/roshankumar447/DSA-Problem/tree/master/1704-determine-if-string-halves-are-alike) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/roshankumar447/DSA-Problem/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
 |  |
 | ------- |
