@@ -468,4 +468,8 @@ My Leetcode Problems in Java
 | ------- |
 | [0841-keys-and-rooms](https://github.com/roshankumar447/DSA-Problem/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/roshankumar447/DSA-Problem/tree/master/1791-find-center-of-star-graph) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/roshankumar447/DSA-Problem/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
