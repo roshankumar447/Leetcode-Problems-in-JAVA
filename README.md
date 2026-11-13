@@ -484,4 +484,5 @@ My Leetcode Problems in Java
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/roshankumar447/DSA-Problem/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/roshankumar447/DSA-Problem/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/roshankumar447/DSA-Problem/tree/master/1484-group-sold-products-by-the-date) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/roshankumar447/DSA-Problem/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
